@@ -69,10 +69,11 @@
 
 ---
 
-### 🚀 Contribution & Activity
+### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BouthainaBelghith1&theme=tokyo-night&hide_border=true" alt="Bouthaina's Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BouthainaBelghith1&show_icons=true&theme=tokyonight&hide_border=true" alt="Bouthaina's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouthainaBelghith1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 ---
