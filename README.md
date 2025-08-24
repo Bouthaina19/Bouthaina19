@@ -2,10 +2,10 @@
 
 ### 👩‍💻 About Me 
 
-- 🎓 **3rd-year Information Systems Development** student (PFE)
-- 💻 Passionate about **Frontend & Backend** development
-- 🌟 Exploring **Artificial Intelligence**, **Machine Learning**, and emerging technologies
-- 📚 **Fun fact**: I love escaping into novels to fuel my creativity.
+- 🎓 **Bachelor’s degree in Information Systems Development**  
+- 💻 Currently working as a **Full Stack Developer**  
+- 🌟 Interested in **Artificial Intelligence**, **Machine Learning**, and emerging technologies  
+- 📚 **Fun fact**: I love reading novels as a source of inspiration and creativity ✨
 
 ---
 
@@ -52,30 +52,30 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+---
+
+### 📊 GitHub Analytics  
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BouthainaBelghith1&theme=onedark" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=BouthainaBelghith1&show_icons=true&theme=tokyonight&hide_border=true" alt="Bouthaina's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouthainaBelghith1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Contribution & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BouthainaBelghith1&show_icons=true&theme=radical" alt="Bouthaina's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouthainaBelghith1&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BouthainaBelghith1&theme=tokyo-night&hide_border=true" alt="Bouthaina's Activity Graph"/>
 </p>
 
 ---
 
-### ⭐️ From [Bouthaina](https://github.com/BouthainaBelghith1/)
+### ⭐️ From [Bouthaina](https://github.com/Bouthaina19/)
 
